@@ -7,4 +7,10 @@ I'M new
 ## Deployment
 
 ## How To Contribute
+<<<<<<< HEAD
 Please fork this repo and then issue poll request
+=======
+
+## Copyright
+test
+>>>>>>> simple-changes
